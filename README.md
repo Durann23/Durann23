@@ -51,3 +51,5 @@ I am driven to solve complex problems through clean, maintainable technological 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Durann23&theme=shades-of-purple&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Durann23?cardType=github&theme=shades-of-purple&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
