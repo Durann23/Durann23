@@ -10,7 +10,7 @@ I specialize in creating functional, fast, and intuitive software. I recently sp
 I am driven to solve complex problems through clean, maintainable technological solutions. I am always ready to collaborate on challenging mobile or web development projects.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.durann23.online/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://durann23.online/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-dur%C3%A1n-ram%C3%ADrez-141a21309/)
 
 ## 📱 Mobile Development
