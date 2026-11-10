@@ -15,7 +15,7 @@ I am driven to solve complex problems through clean, maintainable technological 
 - 📱 **[B-Place](https://apps.apple.com/mx/app/bplace/id6761494583)**: native iOS marketplace for products and service bookings. Swift, UIKit, Stripe.
 - 📱 **B-Place Negocios**: business-side iOS app for products, appointments, orders, chat and analytics. Distributed via TestFlight.
 - 🌐 **[Unbloga](https://github.com/Mangaboxpwa/Front-Unbloga.git)**: manga tracking PWA inspired by Letterboxd. Angular + Laravel REST API.
-- 🐾 **[MONIPET](https://github.com/Moni-Pet/FRONT-MOBILE.git)**: iOS app for pet adoption and IoT monitoring with real-time chat and maps. [Arduino/Raspberry Pi si aplica]
+- 🐾 **[MONIPET](https://github.com/Moni-Pet/FRONT-MOBILE.git)**: iOS app for pet adoption and IoT monitoring with real-time chat and maps.
 - 🅿️ **[Smart Parking](https://github.com/Proyecto-IOT/APIARCAMIENTO.git)**: real-time parking lot monitoring with IoT sensors.
 
 
