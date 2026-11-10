@@ -21,7 +21,7 @@ I am driven to solve complex problems through clean, maintainable technological 
 
 ## 🔗 Contact
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://durann23.online/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-dur%C3%A1n-ram%C3%ADrez-141a21309/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jose-duran-ramirez/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jd43573@gmail.com)
 
 ## 📱 Mobile Development
