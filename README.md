@@ -2,16 +2,27 @@
 ![Logo](https://i.pinimg.com/1200x/6f/64/c3/6f64c3cb7dd292fdbd34ac5c1051d1b8.jpg)
 
 
-# Hi, I'm Durann23! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-Software Engineer & Systems Specialist | FullStack | SQL & Data Integration | Git, CI/CD, Web & App Development
-## 🚀 About Me
-I specialize in creating functional, fast, and intuitive software. I recently spearheaded the development of two native iOS (iPhone) applications. Furthermore, I have solid experience in full-stack web development, using Angular to build dynamic interfaces and Laravel to manage business logic and server-side APIs.
+# Hi, I'm José Ángel Durán Ramírez! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+**iOS & Full-Stack Developer** | Swift · UIKit · Angular · Laravel
+Based in Torreón, México · Open to remote roles
 
+## 🚀 About Me
+I build native iOS apps and full-stack web applications. As the sole developer at Eva Tech, I shipped two 30+ screen iOS apps with REST APIs, Stripe payments, real-time chat and notifications: **B-Place** (live on the App Store) and **B-Place Negocios** (on TestFlight).
+Furthermore, I have solid experience in full-stack web development, using Angular to build dynamic interfaces and Laravel to manage business logic and server-side APIs.
 I am driven to solve complex problems through clean, maintainable technological solutions. I am always ready to collaborate on challenging mobile or web development projects.
 
-## 🔗 Links
+## Featured work
+- 📱 **[B-Place](https://apps.apple.com/mx/app/bplace/id6761494583)**: native iOS marketplace for products and service bookings. Swift, UIKit, Stripe.
+- 📱 **B-Place Negocios**: business-side iOS app for products, appointments, orders, chat and analytics. Distributed via TestFlight.
+- 🌐 **[Unbloga](https://github.com/Mangaboxpwa)**: manga tracking PWA inspired by Letterboxd. Angular + Laravel REST API.
+- 🐾 **[MONIPET](https://github.com/Moni-Pet)**: iOS app for pet adoption and IoT monitoring with real-time chat and maps. [Arduino/Raspberry Pi si aplica]
+- 🅿️ **[Smart Parking](https://github.com/Proyecto-IOT)**: real-time parking lot monitoring with IoT sensors.
+
+
+## 🔗 Contact
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://durann23.online/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-dur%C3%A1n-ram%C3%ADrez-141a21309/)
+📧 jd43573@gmail.com
 
 ## 📱 Mobile Development
 <p align="left">
@@ -71,7 +82,5 @@ I am driven to solve complex problems through clean, maintainable technological 
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a>
 </p> 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Durann23&theme=shades-of-purple&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Durann23?cardType=github&theme=shades-of-purple&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
