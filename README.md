@@ -81,6 +81,3 @@ I am driven to solve complex problems through clean, maintainable technological 
   <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a>
 </p> 
-
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Durann23?cardType=github&theme=shades-of-purple&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
